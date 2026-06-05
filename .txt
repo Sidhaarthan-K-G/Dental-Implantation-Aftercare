@@ -1,0 +1,128 @@
+<section id="dos" class="fade-in-section mb-5">
+        <div class="flex flex-col md:flex-row items-center md:items-start gap-6 md:gap-10">
+          <div class="w-full md:w-1/2">
+            <h2 class="flex  gap-2">
+          <span class="font-display text-2xl font-bold text-blue-900 mb-3 ">Dos After Dental Implant Surgery</span>
+        </h2>
+        <p class="font-bold">Dos After Dental Implant Surgery:</p>
+        <div class="mb-4">
+          <h3 class="font-semibold text-[16px] md:text-[15px]">
+            1.	Follow Prescribed Medications
+          </h3>
+          <p class="pl-4">
+            Take medications exactly as directed by your dentist.
+          </p>
+        </div>
+        <div class="mb-4">
+          <h3 class="font-semibold text-[16px] md:text-[15px]">
+            2.	Apply Ice Packs
+          </h3>
+          <p class="pl-4">
+            Cold compresses can help reduce swelling during the first 24–48 hours.
+          </p>
+        </div>
+        <div class="mb-4">
+          <h3 class="font-semibold text-[16px] md:text-[15px]">
+            3.	Stay Hydrated
+          </h3>
+          <p class="pl-4">
+            Drink enough water throughout recovery.
+          </p>
+        </div>
+        <div class="mb-4">
+          <h3 class="font-semibold text-[16px] md:text-[15px]">
+            4.	Get Proper Rest
+          </h3>
+          <p class="pl-4">
+            Avoid overexertion and allow your body to heal.
+          </p>
+        </div>
+        <div class="mb-4">
+          <h3 class="font-semibold text-[16px] md:text-[15px]">
+            5.	Attend Follow-Up Visits
+          </h3>
+          <p class="pl-4">
+            Regular check-ups help ensure the implant is healing correctly.
+          </p>
+        </div>
+        <div class="mb-4">
+          <h3 class="font-semibold text-[16px] md:text-[15px]">
+            6.	Maintain Gentle Oral Hygiene
+          </h3>
+          <p class="pl-4">
+            Keeping the mouth clean reduces the risk of infection.
+          </p>
+        </div>
+          </div>
+          <div class="w-full md:w-1/2 flex justify-center">
+            <figure class="w-full flex flex-col justify-center">
+              <div class="img-placeholder overflow-hidden rounded-xl bg-gray-50 flex items-center justify-center">
+                <img
+                  src="assets/Implants blog 1- 2nd image.png"
+                  alt="Diagram showing the parts of a dental implant, including the crown, abutment, implant, and jawbone"
+                  class="w-full max-w-[250px] md:max-w-[320px] lg:max-w-[400px] h-auto object-contain mx-auto"
+                />
+              </div>
+              <figcaption class="mt-4 text-xs text-gray-500 italic leading-snug text-center">
+                "The anatomy of a dental implant: understanding the crown, abutment, implant post, and jawbone that work together to restore your smile."
+              </figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+
+
+      <section id="dos" class="fade-in-section mb-5">
+        <h2 class="flex  gap-2">
+          <span class="font-display text-2xl font-bold text-blue-900 mb-3 ">Dos After Dental Implant Surgery</span>
+        </h2>
+        <p class="font-bold">Dos After Dental Implant Surgery:</p>
+        <div class="mb-4">
+          <h3 class="font-semibold text-[16px] md:text-[15px]">
+            1.	Follow Prescribed Medications
+          </h3>
+          <p class="pl-4">
+            Take medications exactly as directed by your dentist.
+          </p>
+        </div>
+        <div class="mb-4">
+          <h3 class="font-semibold text-[16px] md:text-[15px]">
+            2.	Apply Ice Packs
+          </h3>
+          <p class="pl-4">
+            Cold compresses can help reduce swelling during the first 24–48 hours.
+          </p>
+        </div>
+        <div class="mb-4">
+          <h3 class="font-semibold text-[16px] md:text-[15px]">
+            3.	Stay Hydrated
+          </h3>
+          <p class="pl-4">
+            Drink enough water throughout recovery.
+          </p>
+        </div>
+        <div class="mb-4">
+          <h3 class="font-semibold text-[16px] md:text-[15px]">
+            4.	Get Proper Rest
+          </h3>
+          <p class="pl-4">
+            Avoid overexertion and allow your body to heal.
+          </p>
+        </div>
+        <div class="mb-4">
+          <h3 class="font-semibold text-[16px] md:text-[15px]">
+            5.	Attend Follow-Up Visits
+          </h3>
+          <p class="pl-4">
+            Regular check-ups help ensure the implant is healing correctly.
+          </p>
+        </div>
+        <div class="mb-4">
+          <h3 class="font-semibold text-[16px] md:text-[15px]">
+            6.	Maintain Gentle Oral Hygiene
+          </h3>
+          <p class="pl-4">
+            Keeping the mouth clean reduces the risk of infection.
+          </p>
+        </div>
+      </section>
