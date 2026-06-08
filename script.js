@@ -1,10 +1,15 @@
-const mobileMenuButton = document.getElementById("mobile-menu-button");
+const mobileBtn = document.getElementById("mobile-menu-button");
 const mobileMenu = document.getElementById("mobile-menu");
 
-mobileMenuButton.addEventListener("click", () => {
-    mobileMenu.classList.toggle("hidden");
+mobileBtn.addEventListener("click", () => {
+  mobileMenu.classList.toggle("hidden");
 });
 
+function booknowaction() {
+  localStorage.removeItem("selectedCity");
+  localStorage.removeItem("selectedLocation");
+  window.location.href = "https://oroglee.com/clinics";
+}
 // Smooth scroll for anchor links with data-target attribute
 document.querySelectorAll(".toc-link").forEach((link) => {
 
@@ -222,30 +227,3 @@ shareBtns.forEach(btn => {
 
 
 
-function gotohome(){
-    window.location.href="/"
-}    
-
-function gotoservices() {
-    window.location.href = "/services"
-}
-
-function gotodentalinsurance(){
-    window.location.href="/dentalinsurance"
-}
-
-function gotocontactus () {
-    window.location.href = "/contactus"
-}
-
-function gotoaboutus() {
-    window.location.href = "/aboutus"
-}
-
-function gotologin() {
-    window.location.href = "/portal"
-}
-
-function booknowaction() {
-    window.location.href = "/clinics"
-}
